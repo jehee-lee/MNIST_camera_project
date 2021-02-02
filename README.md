@@ -1,2 +1,5 @@
 # jjtech
-Welcome, this is place within personal curiosity.
+
+코랩을 통해 모델을 만들고 mnist를 학습한 뒤
+
+학습된 모델을 활용해 라즈베리파이 카메라에서 캡쳐된 숫자를 분류하는 코드입니다.
